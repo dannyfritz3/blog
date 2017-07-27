@@ -3,8 +3,9 @@
 .header {
     background-image: url("images/mountains.jpg"); 
     background-repeat: repeat-x;
-    background-size: 10%;
-    background-position-y: -25px; 
+    /* background-size: 10%; */
+    /* background-position-y: -25px;   */
+    /* background-position-x: 0px; */
     border-bottom-width: 4px;
     border-bottom-style: solid;
     width: 100%;
