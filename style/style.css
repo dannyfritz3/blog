@@ -21,10 +21,24 @@
     padding-bottom: 25px;
 }
 
-.buttons {
-    padding-top: 15px;
+.top-buttons {
+    padding-top: 20px;
     text-align: center;
     font-family: "Blankenburg";
+    background-color: rgba(230,230,230,0.5);
+    height: 50%;
+}
+
+.login-buttons {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    font-family: "Blankenburg";
+}
+
+.login-form {
+    background-color: rgba(230,230,230,0.5);
+    padding: 15px;
 }
 
 .header .border {
